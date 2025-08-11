@@ -1,1 +1,1 @@
-"# LIFT-Land-Intelligence-Feasibility-Tool" 
+# LIFT-Land-Intelligence-Feasibility-Tool 
